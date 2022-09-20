@@ -8,4 +8,4 @@
 --------------------------------------
 
 ### İşinize yarayacaklar.
-1. Dosyayı indir <a href="https://github.com/Artidox/spotify-takipci-botu/archive/refs/heads/main.zip">here</a> and extract the ZIP 
+1. Dosyayı indirmek için <a href="https://github.com/Artidox/spotify-takipci-botu/archive/refs/heads/main.zip">buraya tıkla.</a>
