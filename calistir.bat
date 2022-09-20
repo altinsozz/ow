@@ -1,0 +1,2 @@
+py artidox.py
+PAUSE
