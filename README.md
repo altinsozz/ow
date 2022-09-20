@@ -8,13 +8,19 @@
 --------------------------------------
 
 ### İşinize yarayacaklar.
-1-) Dosyayı indirmek için <a href="https://github.com/Artidox/spotify-takipci-botu/archive/refs/heads/main.zip">buraya tıkla.</a>
+» Dosyayı indirmek için <a href="https://github.com/Artidox/spotify-takipci-botu/archive/refs/heads/main.zip">buraya tıkla.</a>
+
 --------------------------------------
-2-) WinRAR indirmek için <a href="https://www.win-rar.com/start.html?&L=5">buraya tıkla.</a>
+
+» WinRAR indirmek için <a href="https://www.win-rar.com/start.html?&L=5">buraya tıkla.</a>
+
 --------------------------------------
-3-) Python indirmek için <a href="https://www.python.org/downloads/">buraya tıkla.</a>
+
+» Python indirmek için <a href="https://www.python.org/downloads/">buraya tıkla.</a>
+
 --------------------------------------
-4-) Proxy bulmak için <a href="https://github.com/search?q=proxies.txt&ref=simplesearch">buraya tıkla.</a>
+
+» Proxy bulmak için <a href="https://github.com/search?q=proxies.txt&ref=simplesearch">buraya tıkla.</a>
 
 --------------------------------------
 
