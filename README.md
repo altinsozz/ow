@@ -1,3 +1,10 @@
-# spotify-takipci-botu
-spotify follower bot
+<br/>
+<div align="center">
+
 ![image](https://raw.githubusercontent.com/Artidox/spotify-takipci-botu/main/IMG_20220920_203917.jpg)
+
+</div>
+
+--------------------------------------
+
+### Usage
