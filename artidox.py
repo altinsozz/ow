@@ -22,7 +22,7 @@ def load_proxies():
             time.sleep(10)
             os._exit(0)
 
-print("\n[1] Proxies\n[2] Proxyless")
+print("\n[1] Proxies\n[2] Proxyless (Not work)")
 option = int(input("\n> "))
 if option == 1:
     load_proxies()
